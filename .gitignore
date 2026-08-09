@@ -1,0 +1,12 @@
+node_modules/
+
+# .NET / C# build outputs
+bin/
+obj/
+
+# Visual Studio / user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
