@@ -1,0 +1,30 @@
+﻿using simpleChsarp.LearningPath;
+using simpleChsarp.LearningPath.Level0Generics;
+using simpleChsarp.LearningPath.Level1Collections;
+using simpleChsarp.LearningPath.Level2BasicLinq;
+using simpleChsarp.LearningPath.Level3Ordering;
+using simpleChsarp.LearningPath.Level4Grouping;
+using simpleChsarp.LearningPath.Level5SetOperations;
+using simpleChsarp.LearningPath.Level6ComparingCollections;
+using simpleChsarp.LearningPath.Level7MoreAdvancedLinq;
+using simpleChsarp.LearningPath.Level8LinqObjects;
+
+RoadmapConsole.Print();
+
+Level0GenericsDemo.Run();
+Console.WriteLine();
+Level1CollectionsDemo.Run();
+Console.WriteLine();
+Level2BasicLinqDemo.Run();
+Console.WriteLine();
+Level3OrderingDemo.Run();
+Console.WriteLine();
+Level4GroupingDemo.Run();
+Console.WriteLine();
+Level5SetOperationsDemo.Run();
+Console.WriteLine();
+Level6ComparingCollectionsDemo.Run();
+Console.WriteLine();
+Level7AdvancedLinqDemo.Run();
+Console.WriteLine();
+Level8LinqObjectsDemo.Run();
