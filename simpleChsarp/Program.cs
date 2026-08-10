@@ -1,6 +1,7 @@
 ﻿using simpleChsarp.LearningPath;
 using simpleChsarp.LearningPath.Level0Generics;
 using simpleChsarp.LearningPath.Level1Collections;
+using simpleChsarp.LearningPath.Level1InterfacesPractice;
 using simpleChsarp.LearningPath.Level2BasicLinq;
 using simpleChsarp.LearningPath.Level3Ordering;
 using simpleChsarp.LearningPath.Level4Grouping;
@@ -14,6 +15,8 @@ RoadmapConsole.Print();
 Level0GenericsDemo.Run();
 Console.WriteLine();
 Level1CollectionsDemo.Run();
+Console.WriteLine();
+Level1InterfacesPracticeDemo.Run();
 Console.WriteLine();
 Level2BasicLinqDemo.Run();
 Console.WriteLine();
